@@ -1,4 +1,3 @@
-# 0_ENTRY/README.md
 
 **This archive is NOT a project. It is a preservation vault.**
 

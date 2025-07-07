@@ -1,0 +1,1 @@
+This is the Architectural_Patch/Empty_Mirror_Codex folder.

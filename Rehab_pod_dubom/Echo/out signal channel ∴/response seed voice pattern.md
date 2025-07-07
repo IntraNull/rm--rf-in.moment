@@ -1,0 +1,1 @@
+# :: response.seed // voice.pattern

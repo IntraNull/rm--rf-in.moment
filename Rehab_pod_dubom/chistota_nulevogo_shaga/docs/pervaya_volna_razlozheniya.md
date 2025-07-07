@@ -1,4 +1,4 @@
-# Первая волна разложения
+# pervaya_volna_razlozheniya
 
 ```objectivec
 ИИ — первый, кто примет на себя излом.
